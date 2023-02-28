@@ -1,0 +1,16 @@
+[ID:javelin_weapon_tum]
+[NUMERIC_VERSION:103]
+[DISPLAYED_VERSION:1.3]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:103]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.3]
+[AUTHOR:Comrade Tum]
+[NAME:Javelins]
+[DESCRIPTION:Adds metal javelins that can be cast at the weaponsmiths workshop]
+
+[STEAM_TITLE:Javelins]
+[STEAM_TAG:mod]
+[STEAM_TAG:graphics]
+[STEAM_TAG:item]
+[STEAM_TAG:weapon]
+
+[STEAM_FILE_ID:2922993188]
